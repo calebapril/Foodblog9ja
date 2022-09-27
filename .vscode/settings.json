@@ -1,6 +1,9 @@
 {
     "editor.cursorBlinking": "expand",
     "cSpell.words": [
-        "Jollof"
-    ]
+        "foodblog",
+        "Jollof",
+        "scrolltop"
+    ],
+    "liveServer.settings.port": 5501
 }

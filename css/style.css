@@ -24,7 +24,7 @@
     --font-medium: 500;
     --font-semi-bold: 600;
 
-    /* margenes */
+    /* margins */
     --mb-1: .5rem;
     --mb-2: 1rem;
     --mb-3: 1.5rem;
@@ -256,6 +256,10 @@ img{
 .home_img{
     width: 300px;
     justify-self: center;
+}
+
+.logo1 {
+    width: 100px;
 }
 
 /* button */
